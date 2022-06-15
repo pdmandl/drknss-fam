@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "module": "CommonJS",
+        "target": "es5",
+        "allowJs": true
+    },
+    "include": ["**/*.ts"]
+}
